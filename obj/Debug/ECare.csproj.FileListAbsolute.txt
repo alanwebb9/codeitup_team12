@@ -1,0 +1,10 @@
+C:\GitHub\ECare\ECare\bin\Debug\ECare.exe.config
+C:\GitHub\ECare\ECare\bin\Debug\ECare.exe
+C:\GitHub\ECare\ECare\bin\Debug\ECare.pdb
+C:\GitHub\ECare\ECare\obj\Debug\ECare.csprojAssemblyReference.cache
+C:\GitHub\ECare\ECare\obj\Debug\ECare.Form1.resources
+C:\GitHub\ECare\ECare\obj\Debug\ECare.Properties.Resources.resources
+C:\GitHub\ECare\ECare\obj\Debug\ECare.csproj.GenerateResource.cache
+C:\GitHub\ECare\ECare\obj\Debug\ECare.csproj.CoreCompileInputs.cache
+C:\GitHub\ECare\ECare\obj\Debug\ECare.exe
+C:\GitHub\ECare\ECare\obj\Debug\ECare.pdb
