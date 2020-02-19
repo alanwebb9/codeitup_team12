@@ -8,3 +8,4 @@ C:\GitHub\ECare\ECare\obj\Debug\ECare.csproj.GenerateResource.cache
 C:\GitHub\ECare\ECare\obj\Debug\ECare.csproj.CoreCompileInputs.cache
 C:\GitHub\ECare\ECare\obj\Debug\ECare.exe
 C:\GitHub\ECare\ECare\obj\Debug\ECare.pdb
+C:\GitHub\ECare\ECare\obj\Debug\ECare.Form2.resources
