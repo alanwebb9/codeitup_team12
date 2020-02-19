@@ -25,7 +25,6 @@ namespace ECare
         
         private void btnsearch_Click(object sender, EventArgs e)
         {
-            //this.IsMdiContainer = true;
             Form1 Form2 = new Form1();
             //Form2.MdiParent = this;
             Form2.Show();
